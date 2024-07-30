@@ -1,20 +1,42 @@
+![logo](https://github.com/mdsamaul/mdsamaul/blob/main/bg_samaul_github.gif)
 <h1 align="center">Hi 👋, I'm Md. Samaul Islam</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
-<img align="right" width="450px" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21372331-1b3f-40dc-a491-778dcb16d079_800x800.gif"></img>
+<img align="right" width="380px" margin="10px" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21372331-1b3f-40dc-a491-778dcb16d079_800x800.gif"></img>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsamaul&label=Profile%20views&color=0e75b6&style=flat" alt="mdsamaul" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsamaul" alt="mdsamaul" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mdsamaul" alt="mdsamaul" />samaul</a> </p>
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" />samaul</a> </p>
+
+- 🔭 I’m currently Studying Computer Science Engineering in Southeast University [abc](abc)
+
+- 🌱 I’m currently learning **abc**
+
+- 👯 I’m looking to collaborate on [abc](abc)
+
+- 🤝 I’m looking for help with [abc](abc)
+
+- 👨‍💻 All of my projects are available at [abc](abc)
+
+- 📝 I regularly write articles on [abc](abc)
+
+- 💬 Ask me about **abc**
+
+- 📫 How to reach me **mdsamaul843@gmail.com**
+
+- 📄 Know about my experiences [abc](abc)
+
+- ⚡ Fun fact **abc**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mdsamaul/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mdsamaul/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/mdsamaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mdsamaul" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/user:26565025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="user:26565025" height="30" width="40" /></a>
 <a href="https://fb.com/s.samaul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="s.samaul" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/mdsamaul843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/mdsamaul843" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/mdsamaul843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="mdsamaul843" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/https://codeforces.com/profile/mdsamaul843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/mdsamaul843" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/mdsamaul843/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/mdsamaul843/" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/mdsamaul843" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mdsamaul843" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -27,7 +49,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mdsamaul&show_icons=true&locale=en" alt="mdsamaul" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamaul&" alt="mdsamaul" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamaul&" alt="mdsamaul" /></p>
 
-"# mdsamaul" 
-"# mdsamaul" 
