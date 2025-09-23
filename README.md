@@ -1,6 +1,6 @@
 ![logo](https://github.com/mdsamaul/mdsamaul/blob/main/bg_samaul_github.gif)
 <h1 align="center">Hi 👋, I'm Md. Samaul Islam</h1>
-<h3 align="center">A passionate frontend developer from Bangladesh</h3>
+<h3 align="center">A passionate ASP.NET from Bangladesh</h3>
 <img align="right" width="380px" margin="10px" src="https://substackcdn.com/image/fetch/w_1456,c_limit,f_webp,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F21372331-1b3f-40dc-a491-778dcb16d079_800x800.gif"></img>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsamaul&label=Profile%20views&color=0e75b6&style=flat" alt="mdsamaul" /> </p>
