@@ -111,21 +111,49 @@ Mid-level **Full Stack Developer (.NET Core)** with experience in building **sca
 
 ---
 
-# 🏆 Certifications
+### 🏅 Certifications & Training
 
-- IsDB-BISEW IT Scholarship (SCIC)  
-- Programming Hero Full Stack Development  
-- Ostad Full Stack + AI Integration (Ongoing)
+<p align="center">
+
+  <img src="https://img.shields.io/badge/IsDB--BISEW-IT%20Scholarship%20SCIC-0d6efd?style=for-the-badge&logo=google-scholar&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Programming%20Hero-Complete%20Web%20Dev-ff6b6b?style=for-the-badge&logo=javascript&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Ostad-Full%20Stack%20+%20AI-20c997?style=for-the-badge&logo=python&logoColor=white" />
+
+</p>
+
+<p align="center">
+
+  <img src="https://img.shields.io/badge/Phitron-CSE%20Fundamentals-6610f2?style=for-the-badge&logo=codeforces&logoColor=white" />
+
+</p>
+
+<p align="center">
+📘 Built strong foundation in Programming, Data Structures & Algorithms
+</p>
 
 ---
 
 # 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsamaul&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamaul&theme=tokyonight" height="180"/>
+
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdsamaul&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=mdsamaul&theme=tokyonight&hide_border=true"/>
+
 </div>
 
+---
+
+# 🧠 Language & Contribution
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsamaul&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
 ---
 
 # ⚡ Closing
