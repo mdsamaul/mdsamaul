@@ -83,19 +83,47 @@ Mid-level **Full Stack Developer (.NET Core)** with experience in building **sca
 - Clean architecture implementation  
 
 ---
-
 # 🚀 Projects
 
 ## 🚗 Online Ride Sharing System
-- Real-time GPS tracking  
-- SignalR live notifications  
-- Angular + ASP.NET Core backend  
-- JWT secured API system  
 
-🔗 Official: https://www.isdb-bisew.org/index.php/it-scholarship-programme/412/class-project-online-ride-sharing-system  
-🎥 Demo: https://www.youtube.com/watch?v=1r343XO_gzA  
+<p align="center">
+
+<img src="https://img.shields.io/badge/Project-Online%20Ride%20Sharing%20System-667eea?style=for-the-badge&logo=google-maps&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Backend-ASP.NET%20Core%20Web%20API-512BD4?style=for-the-badge&logo=.net&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Frontend-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Real%20Time-SignalR-20c997?style=for-the-badge&logo=signal&logoColor=white" />
+
+<img src="https://img.shields.io/badge/Auth-JWT%20Secure-ff6b6b?style=for-the-badge&logo=jsonwebtokens&logoColor=white" />
+
+</p>
 
 ---
+
+### ⚡ Key Features
+- 📍 Real-time GPS tracking  
+- 🔔 Live notifications (SignalR)  
+- 🔐 JWT secured API system  
+- 🏗️ Clean Architecture backend  
+
+---
+
+### 🔗 Links
+
+<p align="center">
+
+<a href="https://www.isdb-bisew.org/index.php/it-scholarship-programme/412/class-project-online-ride-sharing-system">
+<img src="https://img.shields.io/badge/Official%20Project-View%20Details-0d6efd?style=for-the-badge&logo=internet-explorer&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/watch?v=1r343XO_gzA">
+<img src="https://img.shields.io/badge/Demo-YouTube%20Video-ff0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+</p>
 
 ## 🧑‍💼 HRM System
 - Employee management system  
@@ -110,16 +138,15 @@ Mid-level **Full Stack Developer (.NET Core)** with experience in building **sca
 👉 4th Year (Ongoing)
 
 ---
-
 ### 🏅 Certifications & Training
 
 <p align="center">
 
-  <img src="https://img.shields.io/badge/IsDB--BISEW-IT%20Scholarship%20SCIC-0d6efd?style=for-the-badge&logo=google-scholar&logoColor=white" />
+  <img src="https://img.shields.io/badge/IsDB--BISEW-SCIC%20IT%20Scholarship-0d6efd?style=for-the-badge&logo=google-scholar&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Programming%20Hero-Complete%20Web%20Dev-ff6b6b?style=for-the-badge&logo=javascript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Programming%20Hero-Complete%20Web%20Development%20(Batch%207)-ff6b6b?style=for-the-badge&logo=javascript&logoColor=white" />
 
-  <img src="https://img.shields.io/badge/Ostad-Full%20Stack%20+%20AI-20c997?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ostad-Full%20Stack%20+%20AI%20(Ongoing)-20c997?style=for-the-badge&logo=python&logoColor=white" />
 
 </p>
 
@@ -129,8 +156,10 @@ Mid-level **Full Stack Developer (.NET Core)** with experience in building **sca
 
 </p>
 
+---
+
 <p align="center">
-📘 Built strong foundation in Programming, Data Structures & Algorithms
+📘 Strong foundation in Programming, Data Structures & Algorithms
 </p>
 
 ---
