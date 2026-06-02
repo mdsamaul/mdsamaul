@@ -5,7 +5,7 @@
 
 <!-- ===================== Typing Animation ===================== -->
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1200&center=true&vCenter=true&width=750&color=00ff9d&lines=Full+Stack+Developer;ASP.NET+Core+Specialist;Backend+Architect;Passionate+AI+Enthusiast;Building+Scalable+Solutions" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=780&color=00ff9d&lines=Full+Stack+Developer;ASP.NET+Core+Expert;Team+Leader+%26+Problem+Solver;AI+%26+ML+Enthusiast;Building+Scalable+Systems" />
 </div>
 
 ---
@@ -27,66 +27,83 @@
 
 ### 👋 About Me
 
-**Mid-level Full Stack Developer** with **1+ year of professional experience** in **ASP.NET Core**. Passionate about building robust, scalable web applications with clean architecture, high-performance APIs, and excellent user experiences.
+**Mid-level Full Stack Developer** with **1+ year** of professional experience specializing in **ASP.NET Core**. Passionate about building scalable, secure, and real-time web applications using clean architecture.
 
-Currently focused on **enterprise-level backend systems** while expanding my expertise into **AI/ML** and modern full-stack technologies.
-
-- 🚀 Currently working at **GCTL Infosys** as Software Developer (ASP.NET)
-- 💡 Strong believer in **Clean Code**, **Repository Pattern**, and **SOLID Principles**
-- 🌱 Actively learning **Machine Learning**, **Generative AI**, and **System Design**
-- 📍 Open to collaboration and exciting opportunities
+- **Team Leader** of the **Official IsDB-BISEW Class Project** (Online Ride-Sharing System)
+- Strong focus on **RESTful APIs**, **JWT Authentication**, **Real-time Systems (SignalR)**, and **Clean Code**
+- Currently expanding skills in **AI/ML**, **Generative AI**, and **System Design**
 
 ---
 
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,sqlserver,postgres,mongodb,html,css,bootstrap,tailwind,js,typescript,react,angular,jquery,git,docker,postman,figma,python,django&perline=11" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,azure,sqlserver,postgres,mongodb,html,css,bootstrap,tailwind,js,typescript,react,angular,jquery,git,docker,postman,swagger,figma,python,django&perline=11" />
 </p>
 
 ---
 
-### 💼 Experience
+### 💼 Professional Experience
 
 **Software Developer (ASP.NET)**  
 **GCTL Infosys** — *January 2025 – Present*
-- Developing and maintaining scalable web applications using **ASP.NET Core MVC & Web API**
-- Built secure **RESTful APIs** with **JWT Authentication** and **Role-based Authorization**
-- Working with **Entity Framework Core**, optimized SQL queries, and Repository Pattern
+- Developing enterprise web applications using **ASP.NET Core MVC & Web API**
+- Implemented **JWT + Role-based Authorization**, Repository Pattern & EF Core
 - Integrated **Payment Gateways** and **SMS APIs**
 
 **Frontend Developer & QA Tester**  
 **MandsIT** — *March 2021 – Present*
-- Developed responsive and modern UIs using **HTML5, CSS3, Bootstrap, JavaScript**
-- Performed manual & automation testing for Android applications
-- Collaborated with backend team for seamless **REST API integration**
+- Built responsive UIs with **HTML5, CSS3, Bootstrap & JavaScript**
+- Performed QA testing for Android apps and API integration
 
 **Trainee Programmer (IsDB-BISEW IT Scholarship)**  
 **US Software Ltd.** — *June 2024 – December 2024*
-- Built full-stack applications using **ASP.NET Core + Angular**
-- Implemented **real-time features** using **SignalR**
-- Gained strong foundation in **Clean Architecture** and **Enterprise Development**
+- Completed intensive **6-month professional training**
+- Built multiple full-stack applications with **ASP.NET Core + Angular**
 
 ---
 
-### 🧩 Featured Projects
+### 🏆 Featured Projects
+
+**🚗 Online Ride-Sharing System** *(Official IsDB-BISEW Class Project)*
+- **Team Leader**
+- Real-time ride booking, GPS tracking, and live notifications using **SignalR**
+- **Backend**: ASP.NET Web API, Entity Framework Core, SQL Server, JWT
+- **Frontend**: Angular, TypeScript, Leaflet Maps
+- Officially published by **IsDB-BISEW**
+
+**🔗 Project Links:**
+- [IsDB-BISEW Official Page](https://www.isdb-bisew.org/index.php/it-scholarship-programme/412/class-project-online-ride-sharing-system)
+- [Project Demo Video (YouTube)](https://www.youtube.com/watch?v=1r343XO_gzA)
 
 **HRM System** *(Company Project)*
-- Full-featured **Human Resource Management System**
-- Complete employee lifecycle, attendance, payroll, and admin dashboard
-- Led full-stack development (Frontend + Backend + Database)
-
-**Online Ride Share System** *(Training Project)*
-- Real-time ride sharing platform with **GPS tracking**
-- Live notifications using **SignalR**
-- Multi-user role management (Rider, Driver, Admin)
+- Full-featured Human Resource Management System with complete employee & admin workflows
 
 ---
 
-### 🎯 Education
+### 🏅 Achievements & Activities
+
+- **IsDB-BISEW IT Scholarship** (Complete Web Development - SCIC)
+- **Programming Hero** — Complete Web Development (Batch 7)
+- **Ostad** — Full Stack Web Dev with Python, Django, React & AI (Batch 11, Ongoing)
+- Active problem solver on competitive programming platforms
+
+---
+
+### 🌟 Problem Solving & Coding Profiles
+
+| Platform       | Profile Link                                      | Status      |
+|----------------|---------------------------------------------------|-------------|
+| Codeforces     | [mdsamaul](https://codeforces.com/profile/mdsamaul) | Active     |
+| HackerRank     | [mdsamaul](https://www.hackerrank.com/mdsamaul)     | Active     |
+| GitHub         | [mdsamaul](https://github.com/mdsamaul)           | Active since 2023 |
+
+---
+
+### 📚 Education
 
 **B.Sc. in Computer Science & Engineering**  
-*4th Year (Ongoing)*
+*4th Year (Ongoing)* — Southeast University
 
 ---
 
@@ -101,5 +118,5 @@ Currently focused on **enterprise-level backend systems** while expanding my exp
 
 <!-- ===================== Footer Banner ===================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=120&section=footer&text=Let%27s%20Connect%20%26%20Build%20Something%20Great&fontSize=18&fontColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:667eea,100:764ba2&height=130&section=footer&text=Open%20to%20Collaboration%20%7C%20Let%27s%20Build%20Something%20Amazing%20Together&fontSize=18&fontColor=ffffff" />
 </div>
